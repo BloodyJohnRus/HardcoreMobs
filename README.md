@@ -130,5 +130,5 @@ Overall placeholders:
 4. Edit your config, and enjoy!
 
 ## Some unuseful shit
-- [My discord](https://discord.gg/U9KnwgSM)
-- [My server's discord](https://discord.gg/56A4nTEZR7)
+- My discord: blxxdx_1
+- [My server's discord [RU]](https://discord.gg/56A4nTEZR7)
