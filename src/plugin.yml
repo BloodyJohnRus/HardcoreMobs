@@ -1,0 +1,16 @@
+name: HardcoreMobs
+main: com.blxxdx.mobs.MobsMain
+version: 1
+api-version: 1.13
+load: POSTWORLD
+softdepend:
+  - Multiverse-Core
+  - AntiRelog
+depend:
+  - PlaceholderAPI
+commands:
+  hmobs:
+    permission: hmobs.command.admin
+permissions:
+  hmobs.command.admin:
+    default: op
