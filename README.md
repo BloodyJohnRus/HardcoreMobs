@@ -104,7 +104,12 @@ Overall placeholders:
 %top3_damage% - shows top 3 dealt damage to boss. Shows "null" in [DIRECT], [SET], [CHECK], [ATTACK] if not set. In other commands doesn't replaced.
 %your_key% - shows your value, seted through [SET] command.
 ```
-
+# Commands:
+```
+/hmobs reload - Reload plugin
+/hmobs spawn name - spawns boss(Launches preSpawnScript)
+/hmobs tp name - teleports you to spawn location, or to entity, when spawned
+```
 # Important notes!
 ### I'd very recommend to not use nested [REPEAT]. Better is to run them separately.
 ### Also, you can't run [FOR] cycle in [REPEAT]. This is for safety of your performance.
