@@ -128,3 +128,7 @@ Overall placeholders:
 2. Put your .jar file in "plugins" folder.
 3. Create folder "HardcoreMobs", and in this folder, create "mobs.yml" file.
 4. Edit your config, and enjoy!
+
+## Some unuseful shit
+- [My discord](https://discord.gg/U9KnwgSM)
+- [My server's discord](https://discord.gg/56A4nTEZR7)
